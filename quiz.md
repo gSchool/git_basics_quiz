@@ -2,20 +2,20 @@
 
 ###What is your name?
 
-Your answer goes here
+Daphne
 
 ###What is your favorite color?
 
-Your answer goes here
+Green & Orange  
 
 ###Cats or Dogs?
 
-Your answer goes here
+Dogs
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+Everday is perfect :P
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+Jesus, Gandhi or Krishna
